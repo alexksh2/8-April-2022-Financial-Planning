@@ -1,12 +1,11 @@
 # Financial-Planning-In-Singapore
 
-Financial planning is the process of setting and achieving specific financial goals by analyzing an individual's current financial situation, identifying their objectives, and formulating strategies to manage their income, expenses, assets, and liabilities. It involves assessing various factors such as income, expenses, investments, taxes, insurance, retirement planning, estate planning, and risk tolerance to create a comprehensive plan.
 
-Hence, financial planning is vital in Singapore for individuals to navigate through unique challenges of the local economy, secure financial well-being, and achieve long-term financial goals. It provides individuals with a roadmap to make informed financial decisions, maximize savings, and protect themselves and their families from unexpected events.
+Financial planning involves the assessment of the current situation, setting financial goals, and establishing a feasible plan (U.S. Bank, 2021). The goal of financial planning is for individuals and organizations to be in control of their financial situation and prepare for any potential expenses that may arise (Franklin Templeton, n.d.). Financial planning allows individuals to be aware of investment and financing options available to them, allowing them to maximize their finances.
 
 This project aims to develop a personal budgeting application that helps individuals manage their income, expenses, and savings
 
-# Rationale:
+# Rationale
 
 Financial planning is highly important in Singapore due to several reasons
 
@@ -27,5 +26,16 @@ Financial planning is highly important in Singapore due to several reasons
 * Increasing Life Expectancy: Financial planning considers the need for long-term care and healthcare expenses in later stages of life, ensuring individuals can maintain their quality of life without straining their 
                               finances.
 
+
+Hence, financial planning is vital in Singapore for individuals to navigate through unique challenges of the local economy, secure financial well-being, and achieve long-term financial goals. It provides individuals with a roadmap to make informed financial decisions, maximize savings, and protect themselves and their families from unexpected events.
+
  ![image](https://github.com/alexksh2/8-April-2022-Financial-Planning/assets/138288828/bb742180-b800-43c3-8fda-bd0d2dfda553)
+
+
+ # Description
+The following sections provide more details on the different steps and components of the project.
+
+
+# References
+
 
