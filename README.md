@@ -1,12 +1,10 @@
 # Financial-Planning-In-Singapore
-
-
 Financial planning involves the assessment of the current situation, setting financial goals, and establishing a feasible plan (U.S. Bank, 2021). The goal of financial planning is for individuals and organizations to be in control of their financial situation and prepare for any potential expenses that may arise (Franklin Templeton, n.d.). Financial planning allows individuals to be aware of investment and financing options available to them, allowing them to maximize their finances.
 
 This project aims to develop a personal budgeting application that helps individuals manage their income, expenses, and savings
 
-# Rationale
 
+# Rationale
 Financial planning is highly important in Singapore due to several reasons
 
 * High Cost of Living: Effective financial planning helps individuals manage their expenses, save for future needs, and ensure a comfortable lifestyle.
@@ -33,9 +31,28 @@ Hence, financial planning is vital in Singapore for individuals to navigate thro
 
 
  # Description
-The following sections provide more details on the different steps and components of the project.
+The following sections provide more details on the components of the project.
+
+1. Prediction of HDB Housing Price and Rental Price
+2. Prediction of Transportation Costs (Car Price + Motorcycle Price)
 
 
-# References
+
+# Datasets
+The file dependencies can be found in data.zip
+
+1. Regression of Car Price
+   - carprice.ipynb (File dependency: out.xlsx)
+
+2. Regression of Motorcycle Price
+   - motorcycle.ipynb (File dependency: BIKE DETAILS.csv)
+
+3. Regression of HDB flat resale prices
+   - housing.ipynb (File dependency: ALL prices 1990-2021 mar.csv)
+
+4. Regression of HDB flats rental prices
+   - rental.ipynb  (File dependency: rental price data.csv)
 
 
+# Contributions 
+Alex Khoo, Anakin Seek, Yih Ming
