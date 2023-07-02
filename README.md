@@ -7,21 +7,18 @@ This project aims to develop a personal budgeting application that helps individ
 # Rationale
 Financial planning is highly important in Singapore due to several reasons
 
-* High Cost of Living: Effective financial planning helps individuals manage their expenses, save for future needs, and ensure a comfortable lifestyle.
+* __High Cost of Living__: Effective financial planning helps individuals manage their expenses, save for future needs, and ensure a comfortable lifestyle.
 
-* Retirement Needs: Singapore has an aging population, and individuals need to plan for their retirement to maintain their standard of living. With the CPF system and other retirement planning options, it's crucial to 
+* __Retirement Needs__: Singapore has an aging population, and individuals need to plan for their retirement to maintain their standard of living. With the CPF system and other retirement planning options, it's crucial to 
                     start early and make informed decisions to accumulate sufficient funds for retirement.
 
-* Volatile Economic Environment: Singapore's economy is heavily influenced by global factors, making it susceptible to economic fluctuations. Financial planning helps individuals build a resilient financial foundation, 
+* __Volatile Economic Environment__: Singapore's economy is heavily influenced by global factors, making it susceptible to economic fluctuations. Financial planning helps individuals build a resilient financial foundation, 
                                  diversify their investments, and mitigate risks associated with economic uncertainties.
 
-* Education Expenses: Education is highly valued in Singapore, and the cost of quality education can be significant. Effective financial planning helps parents save for their children's education and manage the expenses 
+* __Education Expenses__: Education is highly valued in Singapore, and the cost of quality education can be significant. Effective financial planning helps parents save for their children's education and manage the expenses 
                       associated with school fees, tuition, and overseas education.
 
- 
-
-
-* Increasing Life Expectancy: Financial planning considers the need for long-term care and healthcare expenses in later stages of life, ensuring individuals can maintain their quality of life without straining their 
+* __Increasing Life Expectancy__: Financial planning considers the need for long-term care and healthcare expenses in later stages of life, ensuring individuals can maintain their quality of life without straining their 
                               finances.
 
 
@@ -41,18 +38,18 @@ The following sections provide more details on the components of the project.
 # Datasets
 The file dependencies can be found in data.zip
 
-**1. Regression of Car Price**
+__1. Regression of Car Price__
    - carprice.ipynb (File dependency: out.xlsx)
 
-**2. Regression of Motorcycle Price**
+__2. Regression of Motorcycle Price__
    - motorcycle.ipynb (File dependency: BIKE DETAILS.csv)
 
-**3. Regression of HDB flat resale prices**
+__3. Regression of HDB flat resale prices__
    - housing.ipynb (File dependency: ALL prices 1990-2021 mar.csv)
 
-**4. Regression of HDB flats rental prices**
+__4. Regression of HDB flats rental prices__
    - rental.ipynb  (File dependency: rental price data.csv)
 
 
 # Contributions 
-Alex Khoo, Anakin Seek, Yih Ming
+__Alex Khoo, Anakin Seek, Yih Ming__
