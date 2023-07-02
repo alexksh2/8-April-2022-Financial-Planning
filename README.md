@@ -41,16 +41,16 @@ The following sections provide more details on the components of the project.
 # Datasets
 The file dependencies can be found in data.zip
 
-1. Regression of Car Price
+**1. Regression of Car Price**
    - carprice.ipynb (File dependency: out.xlsx)
 
-2. Regression of Motorcycle Price
+**2. Regression of Motorcycle Price**
    - motorcycle.ipynb (File dependency: BIKE DETAILS.csv)
 
-3. Regression of HDB flat resale prices
+**3. Regression of HDB flat resale prices**
    - housing.ipynb (File dependency: ALL prices 1990-2021 mar.csv)
 
-4. Regression of HDB flats rental prices
+**4. Regression of HDB flats rental prices**
    - rental.ipynb  (File dependency: rental price data.csv)
 
 
