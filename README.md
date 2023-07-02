@@ -34,9 +34,9 @@ Hence, financial planning is vital in Singapore for individuals to navigate thro
  # Description
 The following sections provide more details on the components of the project.
 
-1. Prediction of HDB Housing Price and Rental Price
-2. Prediction of Vehicle Price (Car Price / Motorcycle Price + COE Price)
-3. Financial Planning Application
+__1. Prediction of HDB Housing Price and Rental Price__
+__2. Prediction of Vehicle Price (Car Price / Motorcycle Price + COE Price)__
+__3. Financial Planning Application__
 
 
 # Datasets
