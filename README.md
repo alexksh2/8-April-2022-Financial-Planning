@@ -1,7 +1,7 @@
 # Financial-Planning-In-Singapore
 Financial planning involves the assessment of the current situation, setting financial goals, and establishing a feasible plan (U.S. Bank, 2021). The goal of financial planning is for individuals and organizations to be in control of their financial situation and prepare for any potential expenses that may arise (Franklin Templeton, n.d.). Financial planning allows individuals to be aware of investment and financing options available to them, allowing them to maximize their finances.
 
-This project aims to develop a personal budgeting application that helps individuals manage their income, expenses, and savings
+This project aims to develop a personal budgeting application that assists individuals in financial planning
 
 
 # Rationale
