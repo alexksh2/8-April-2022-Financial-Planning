@@ -21,8 +21,11 @@ Financial planning is highly important in Singapore due to several reasons
 * Education Expenses: Education is highly valued in Singapore, and the cost of quality education can be significant. Effective financial planning helps parents save for their children's education and manage the expenses 
                       associated with school fees, tuition, and overseas education.
 
+ 
+
+
 * Increasing Life Expectancy: Financial planning considers the need for long-term care and healthcare expenses in later stages of life, ensuring individuals can maintain their quality of life without straining their 
                               finances.
 
-
+ ![image](https://github.com/alexksh2/8-April-2022-Financial-Planning/assets/138288828/bb742180-b800-43c3-8fda-bd0d2dfda553)
 
