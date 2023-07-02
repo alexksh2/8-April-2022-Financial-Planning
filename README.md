@@ -4,7 +4,7 @@ Financial planning involves the assessment of the current situation, setting fin
 # Proposal
 The solution proposed is the Financial Planner, an application that uses time series forecasting to estimate the price of housing and cars for the next 10 years. Three categories of data were considered: HDB flat prices, rental prices, and vehicle prices.
 
-Different regression models were used to forecast the HDB sale prices, rental prices, and vehicle prices respectively (Seek et al., 2023). Vehicle prices were calculated by summing COE prices and the Open Market Value (OMV) of vehicles.
+Different regression models were used to forecast the HDB sale prices, rental prices, and vehicle prices respectively. Vehicle prices were calculated by summing COE prices and the Open Market Value (OMV) of vehicles.
 
 The two methods used are Kernel Ridge Regression (KRR) and Linear Regression (LR) (See Appendix A). KRR is suitable for smaller datasets, as it is too computationally expensive to generate complex models for larger datasets (Unzueta, 2021). LR in comparison generates simpler models which use fewer computational resources. 
 
