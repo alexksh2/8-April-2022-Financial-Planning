@@ -1,7 +1,7 @@
 # Financial-Planning-In-Singapore
 Financial planning involves the assessment of the current situation, setting financial goals, and establishing a feasible plan (U.S. Bank, 2021). The goal of financial planning is for individuals and organizations to be in control of their financial situation and prepare for any potential expenses that may arise (Franklin Templeton, n.d.). Financial planning allows individuals to be aware of investment and financing options available to them, allowing them to maximize their finances.
 
-
+# Proposal
 The solution proposed is the Financial Planner, an application that uses time series forecasting to estimate the price of housing and cars for the next 10 years. Three categories of data were considered: HDB flat prices, rental prices, and vehicle prices.
 
 Different regression models were used to forecast the HDB sale prices, rental prices, and vehicle prices respectively (Seek et al., 2023). Vehicle prices were calculated by summing COE prices and the Open Market Value (OMV) of vehicles.
