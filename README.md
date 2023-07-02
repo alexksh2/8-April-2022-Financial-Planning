@@ -1,8 +1,12 @@
 # Financial-Planning-In-Singapore
 Financial planning involves the assessment of the current situation, setting financial goals, and establishing a feasible plan (U.S. Bank, 2021). The goal of financial planning is for individuals and organizations to be in control of their financial situation and prepare for any potential expenses that may arise (Franklin Templeton, n.d.). Financial planning allows individuals to be aware of investment and financing options available to them, allowing them to maximize their finances.
 
-This project aims to develop a personal budgeting application that assists individuals in financial planning
 
+The solution proposed is the Financial Planner, an application that uses time series forecasting to estimate the price of housing and cars for the next 10 years. Three categories of data were considered: HDB flat prices, rental prices, and vehicle prices.
+
+Different regression models were used to forecast the HDB sale prices, rental prices, and vehicle prices respectively (Seek et al., 2023). Vehicle prices were calculated by summing COE prices and the Open Market Value (OMV) of vehicles.
+
+The two methods used are Kernel Ridge Regression (KRR) and Linear Regression (LR) (See Appendix A). KRR is suitable for smaller datasets, as it is too computationally expensive to generate complex models for larger datasets (Unzueta, 2021). LR in comparison generates simpler models which use fewer computational resources. 
 
 # Rationale
 Financial planning is highly important in Singapore due to several reasons
@@ -32,7 +36,7 @@ The following sections provide more details on the components of the project.
 
 1. Prediction of HDB Housing Price and Rental Price
 2. Prediction of Transportation Costs (Car Price + Motorcycle Price)
-
+3. 
 
 
 # Datasets
