@@ -8,21 +8,21 @@ This project aims to develop a personal budgeting application that helps individ
 
 # Rationale:
 
-Financial planning is highly important in Singapore due to several reasons:
+Financial planning is highly important in Singapore due to several reasons
 
-High Cost of Living: Effective financial planning helps individuals manage their expenses, save for future needs, and ensure a comfortable lifestyle.
+*High Cost of Living: Effective financial planning helps individuals manage their expenses, save for future needs, and ensure a comfortable lifestyle.
 
-Retirement Needs: Singapore has an aging population, and individuals need to plan for their retirement to maintain their standard of living. With the CPF system and other retirement planning options, it's crucial to 
-                  start early and make informed decisions to accumulate sufficient funds for retirement.
+*Retirement Needs: Singapore has an aging population, and individuals need to plan for their retirement to maintain their standard of living. With the CPF system and other retirement planning options, it's crucial to 
+                   start early and make informed decisions to accumulate sufficient funds for retirement.
 
-Volatile Economic Environment: Singapore's economy is heavily influenced by global factors, making it susceptible to economic fluctuations. Financial planning helps individuals build a resilient financial foundation, 
-                               diversify their investments, and mitigate risks associated with economic uncertainties.
+*Volatile Economic Environment: Singapore's economy is heavily influenced by global factors, making it susceptible to economic fluctuations. Financial planning helps individuals build a resilient financial foundation, 
+                                diversify their investments, and mitigate risks associated with economic uncertainties.
 
-Education Expenses: Education is highly valued in Singapore, and the cost of quality education can be significant. Effective financial planning helps parents save for their children's education and manage the expenses 
-                    associated with school fees, tuition, and overseas education.
+*Education Expenses: Education is highly valued in Singapore, and the cost of quality education can be significant. Effective financial planning helps parents save for their children's education and manage the expenses 
+                     associated with school fees, tuition, and overseas education.
 
-Increasing Life Expectancy: Financial planning considers the need for long-term care and healthcare expenses in later stages of life, ensuring individuals can maintain their quality of life without straining their 
-                            finances.
+*Increasing Life Expectancy: Financial planning considers the need for long-term care and healthcare expenses in later stages of life, ensuring individuals can maintain their quality of life without straining their 
+                             finances.
 
 
 
